@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+#response {
+  display: none;
+}
+
+.group, #btn {
+  margin: 10px;
+  padding: 10px;
+}
+
+.group p {
+  font-size: 1.3em;
+}
